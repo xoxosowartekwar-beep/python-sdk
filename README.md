@@ -124,3 +124,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 [protocol-url]: https://modelcontextprotocol.io
 [spec-badge]: https://img.shields.io/badge/spec-spec.modelcontextprotocol.io-blue.svg
 [spec-url]: https://modelcontextprotocol.io/specification/latest
+    <meta property="og:title" content="Download — Python {{ dl_version }} documentation">
