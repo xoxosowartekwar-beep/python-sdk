@@ -143,3 +143,4 @@ items.includes(value);
 // Better for many repeated lookups
 const itemSet = new Set(items);
 itemSet.has(value);
+from itertools import chain, zip_longest
