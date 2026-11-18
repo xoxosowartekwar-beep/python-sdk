@@ -131,3 +131,9 @@ items.includes(value);
 // Better for many repeated lookups
 const itemSet = new Set(items);
 itemSet.has(value);
+// Less efficient for membership checks
+items.includes(value);
+
+// Better for many repeated lookups
+const itemSet = new Set(items);
+itemSet.has(value);
