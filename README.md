@@ -127,8 +127,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
     <meta property="og:title" content="Download — Python {{ dl_version }} documentation">
 // Less efficient for membership checks
 items.includes(value);
-
-// Better for many repeated lookups
 const itemSet = new Set(items);
 itemSet.has(value);
 // Less efficient for membership checks
@@ -138,9 +136,4 @@ items.includes(value);
 const itemSet = new Set(items);
 itemSet.has(value);
 // Less efficient for membership checks
-items.includes(value);
 
-// Better for many repeated lookups
-const itemSet = new Set(items);
-itemSet.has(value);
-from itertools import chain, zip_longest
