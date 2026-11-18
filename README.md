@@ -12,7 +12,7 @@
 [![Specification][spec-badge]][spec-url]
 
 </div>
-
+from itertools import chain, zip_longest
 ## Documentation
 
 **The documentation lives at <https://py.sdk.modelcontextprotocol.io/>.**
