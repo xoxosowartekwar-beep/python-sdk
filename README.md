@@ -14,7 +14,8 @@
 </div>
 from itertools import chain, zip_longest
 ## Documentation
-
+git clone https://github.com/python/cpython.git
+cd cpython
 **The documentation lives at <https://py.sdk.modelcontextprotocol.io/>.**
 
 It has a [Get started guide](https://py.sdk.modelcontextprotocol.io/get-started/), [What's new in v2](https://py.sdk.modelcontextprotocol.io/whats-new/), the [API reference](https://py.sdk.modelcontextprotocol.io/api/mcp/), and the [migration guide](https://py.sdk.modelcontextprotocol.io/migration/).
